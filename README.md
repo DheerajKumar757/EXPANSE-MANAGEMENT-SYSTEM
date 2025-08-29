@@ -1,0 +1,3 @@
+# EXPANSE-MANAGEMENT-SYSTEM
+A EXPANSE-MANAGEMENT-SYSTEM using MERN
+Second Project to learn the MERN Tech
